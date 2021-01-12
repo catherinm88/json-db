@@ -1,0 +1,22 @@
+{
+    "cursos": [
+        {
+          "id": 1,
+          "title": "React desde cero",
+          "image": "https://vilmanunez.com/wp-content/uploads/2016/03/herramientas-y-recursos-para-crear-curso-online.png",
+          "price": 30
+        },
+        {
+          "id": 2,
+          "title": "HTML desde cero",
+          "image": "https://www.caracteristicas.co/wp-content/uploads/2017/03/ciudad-3-e1565900111723.jpg",
+          "price": 50
+        },
+        {
+          "id": 3,
+          "title": "Go desde cero",
+          "image": "https://concepto.de/wp-content/uploads/2018/08/Londres-e1533855310803.jpg",
+          "price": 20
+        }
+    ]
+}
